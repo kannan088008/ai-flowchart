@@ -1,4 +1,4 @@
-#Steelsync-AI
+#ai-flowchart
 '''mermaid
 graph TD
     %% External Data Sources
